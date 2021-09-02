@@ -1,0 +1,19 @@
+ReferenceError: data is not defined
+ReferenceError: data is not defined
+TypeError: res.json is not a function
+TypeError: Class constructor Request cannot be invoked without 'new'
+TypeError: Class constructor Request cannot be invoked without 'new'
+ReferenceError: fetch is not defined
+DiscordAPIError: Cannot send an empty message
+TypeError: message.guild.fetchBans is not a function
+TypeError: message.guild.fetchBans is not a function
+TypeError: this.options.embeds?.map is not a function
+TypeError: this.options.embeds?.map is not a function
+DiscordAPIError: Cannot send an empty message
+DiscordAPIError: Cannot send an empty message
+DiscordAPIError: Cannot send an empty message
+ReferenceError: msg is not defined
+ReferenceError: msg is not defined
+ReferenceError: msg is not defined
+ReferenceError: MessageEmbed is not defined
+ReferenceError: MessageEmbed is not defined
